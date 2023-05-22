@@ -20,9 +20,29 @@ We warmly invite anyone interested to join us. To participate:
 
 The reading list will be updated on a weekly/bi-weekly basis with the papers/articles we plan to discuss. You can find the reading list as follows.
 
+- Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning
+
+  Zeyuan Allen-Zhu, Yuanzhi Li
+  
+- Feature purification: How adversarial training performs robust deep learning
+  
+  Zeyuan Allen-Zhu, Yuanzhi Li
+  
+- Toward understanding the feature learning process of self-supervised contrastive learning
+  
+  Zixin Wen, Yuanzhi Li 
+  
 - Overfitting in Two-layer Convolutional Neural Networks
 
   Yuan Cao, Zixiang Chen, Mikhail Belkin, Quanquan Gu
+  
+- Towards Understanding Mixture of Experts in Deep Learning
+
+  Zixiang Chen, Yihe Deng, Yue Wu, Quanquan Gu, Yuanzhi Li
+
+  
+
+  
 
 ## Contact
 
