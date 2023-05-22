@@ -20,6 +20,10 @@ We warmly invite anyone interested to join us. To participate:
 
 The reading list will be updated on a weekly/bi-weekly basis with the papers/articles we plan to discuss. You can find the reading list as follows.
 
+- Overfitting in Two-layer Convolutional Neural Networks
+
+  Yuan Cao, Zixiang Chen, Mikhail Belkin, Quanquan Gu
+
 ## Contact
 
 For any queries, please open an issue or feel free to reach out to us via email at weihuang.uts@gmail.com
