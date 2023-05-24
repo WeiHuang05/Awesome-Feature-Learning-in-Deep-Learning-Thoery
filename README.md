@@ -24,7 +24,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Zeyuan Allen-Zhu, Yuanzhi Li
   
-- Feature purification: How adversarial training performs robust deep learning
+- Feature purification: How adversarial training performs robust deep learning [(link)](https://arxiv.org/abs/2005.10190)
   
   Zeyuan Allen-Zhu, Yuanzhi Li
   
@@ -39,6 +39,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - Towards Understanding Mixture of Experts in Deep Learning
 
   Zixiang Chen, Yihe Deng, Yue Wu, Quanquan Gu, Yuanzhi Li
+  
+- Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization
+
+  Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
 
   
 
