@@ -20,7 +20,7 @@ We warmly invite anyone interested to join us. To participate:
 
 The reading list will be updated on a weekly/bi-weekly basis with the papers/articles we plan to discuss. You can find the reading list as follows.
 
-- Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning
+- Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning, *ICLR 2023*. [(link)](https://arxiv.org/abs/2012.09816)
 
   Zeyuan Allen-Zhu, Yuanzhi Li
   
