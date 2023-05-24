@@ -24,31 +24,31 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Zeyuan Allen-Zhu, Yuanzhi Li
   
-- Feature purification: How adversarial training performs robust deep learning [(link)](https://arxiv.org/abs/2005.10190)
+- Feature purification: How adversarial training performs robust deep learning, *FOCS 2021*. [(link)](https://arxiv.org/abs/2005.10190)
   
   Zeyuan Allen-Zhu, Yuanzhi Li
   
-- Toward understanding the feature learning process of self-supervised contrastive learning
+- Toward understanding the feature learning process of self-supervised contrastive learning, *ICML 2021*. [(link)](https://arxiv.org/abs/2105.15134)
   
   Zixin Wen, Yuanzhi Li 
   
-- Benign Overfitting in Two-layer Convolutional Neural Networks
+- Benign Overfitting in Two-layer Convolutional Neural Networks, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2202.06526)
 
   Yuan Cao, Zixiang Chen, Mikhail Belkin, Quanquan Gu
   
-- Towards Understanding Mixture of Experts in Deep Learning
+- Towards Understanding Mixture of Experts in Deep Learning, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2208.02813)
 
   Zixiang Chen, Yihe Deng, Yue Wu, Quanquan Gu, Yuanzhi Li
   
-- Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization [(link)](https://arxiv.org/abs/2108.11371)
+- Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization, *ICLR 2023* [(link)](https://arxiv.org/abs/2108.11371)
 
   Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
 
-- Towards Understanding Feature Learning in Out-of-Distribution Generalization [(link)](https://arxiv.org/abs/2304.11327) 
+- Towards Understanding Feature Learning in Out-of-Distribution Generalization, *ICLR 2023 Workshop* [(link)](https://arxiv.org/abs/2304.11327) 
 
   Yongqiang Chen*, Wei Huang*, Kaiwen Zhou*, Yatao Bian, Bo Han, James Cheng
 
-- Benign Overfitting for Two-layer ReLU Networks [(link)](https://arxiv.org/pdf/2303.04145.pdf) 
+- Benign Overfitting for Two-layer ReLU Networks, *ICML 2023*. [(link)](https://arxiv.org/pdf/2303.04145.pdf) 
 
   Yiwen Kou* and Zixiang Chen* and Yuanzhou Chen and Quanquan Gu
 
