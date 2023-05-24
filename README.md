@@ -32,7 +32,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   
   Zixin Wen, Yuanzhi Li 
   
-- Benign Overfitting in Two-layer Convolutional Neural Networks, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2202.06526)
+- Benign Overfitting in Two-layer Convolutional Neural Networks, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2202.06526) [(vedio)](https://www.youtube.com/watch?v=n_F17KVDQHI)
 
   Yuan Cao, Zixiang Chen, Mikhail Belkin, Quanquan Gu
   
