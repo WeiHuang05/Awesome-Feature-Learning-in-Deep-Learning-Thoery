@@ -32,7 +32,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   
   Zixin Wen, Yuanzhi Li 
   
-- Overfitting in Two-layer Convolutional Neural Networks
+- Benign Overfitting in Two-layer Convolutional Neural Networks
 
   Yuan Cao, Zixiang Chen, Mikhail Belkin, Quanquan Gu
   
@@ -40,15 +40,17 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Zixiang Chen, Yihe Deng, Yue Wu, Quanquan Gu, Yuanzhi Li
   
-- Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization
+- Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization [(link)](https://arxiv.org/abs/2108.11371)
 
   Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
 
-- Towards Understanding Feature Learning in Out-of-Distribution Generalization
+- Towards Understanding Feature Learning in Out-of-Distribution Generalization [(link)](https://arxiv.org/abs/2304.11327) 
 
   Yongqiang Chen*, Wei Huang*, Kaiwen Zhou*, Yatao Bian, Bo Han, James Cheng
 
-  
+- Benign Overfitting for Two-layer ReLU Networks [(link)](https://arxiv.org/pdf/2303.04145.pdf) 
+
+  Yiwen Kou* and Zixiang Chen* and Yuanzhou Chen and Quanquan Gu
 
 ## Contact
 
