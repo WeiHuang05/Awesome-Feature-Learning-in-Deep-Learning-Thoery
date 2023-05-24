@@ -44,7 +44,9 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
 
-  
+- Towards Understanding Feature Learning in Out-of-Distribution Generalization
+
+  Yongqiang Chen*, Wei Huang*, Kaiwen Zhou*, Yatao Bian, Bo Han, James Cheng
 
   
 
