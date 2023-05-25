@@ -18,61 +18,63 @@ We warmly invite anyone interested to join us. To participate:
 
 ## Reading List
 
+
+
 The reading list will be updated on a weekly/bi-weekly basis with the papers/articles we plan to discuss. You can find the reading list as follows.
 
-- Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation in Deep Learning, *ICLR 2023*. [(link)](https://arxiv.org/abs/2012.09816)
+- Towards Understanding **Ensemble**, **Knowledge Distillation** and **Self-Distillation** in Deep Learning, *ICLR 2023*. [(link)](https://arxiv.org/abs/2012.09816)
 
   Zeyuan Allen-Zhu, Yuanzhi Li
   
-- Feature purification: How adversarial training performs robust deep learning, *FOCS 2021*. [(link)](https://arxiv.org/abs/2005.10190)
+- Feature purification: How **adversarial training** performs robust deep learning, *FOCS 2021*. [(link)](https://arxiv.org/abs/2005.10190)
   
   Zeyuan Allen-Zhu, Yuanzhi Li
   
-- Toward understanding the feature learning process of self-supervised contrastive learning, *ICML 2021*. [(link)](https://arxiv.org/abs/2105.15134)
+- Toward understanding the feature learning process of self-supervised **contrastive learning**, *ICML 2021*. [(link)](https://arxiv.org/abs/2105.15134)
   
   Zixin Wen, Yuanzhi Li 
   
-- Benign Overfitting in Two-layer Convolutional Neural Networks, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2202.06526) [(video)](https://www.youtube.com/watch?v=n_F17KVDQHI)
+- Benign Overfitting in Two-layer **Convolutional Neural Networks**, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2202.06526) [(video)](https://www.youtube.com/watch?v=n_F17KVDQHI)
 
   Yuan Cao, Zixiang Chen, Mikhail Belkin, Quanquan Gu
   
-- Towards Understanding Mixture of Experts in Deep Learning, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2208.02813)
+- Towards Understanding **Mixture of Experts** in Deep Learning, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2208.02813)
 
   Zixiang Chen, Yihe Deng, Yue Wu, Quanquan Gu, Yuanzhi Li
   
-- Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization, *ICLR 2023* [(link)](https://arxiv.org/abs/2108.11371)
+- Understanding the Generalization of **Adam** in Learning Neural Networks with Proper Regularization, *ICLR 2023* [(link)](https://arxiv.org/abs/2108.11371)
 
   Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
 
-- Towards Understanding Feature Learning in Out-of-Distribution Generalization, *ICLR 2023 Workshop* [(link)](https://arxiv.org/abs/2304.11327) 
+- Towards Understanding Feature Learning in **Out-of-Distribution** Generalization, *ICLR 2023 Workshop* [(link)](https://arxiv.org/abs/2304.11327) 
 
   Yongqiang Chen*, Wei Huang*, Kaiwen Zhou*, Yatao Bian, Bo Han, James Cheng
 
-- Benign Overfitting for Two-layer ReLU Networks, *ICML 2023*. [(link)](https://arxiv.org/pdf/2303.04145.pdf) 
+- Benign Overfitting for Two-layer **ReLU Networks**, *ICML 2023*. [(link)](https://arxiv.org/pdf/2303.04145.pdf) 
 
   Yiwen Kou* and Zixiang Chen* and Yuanzhou Chen and Quanquan Gu
 
-- Vision Transformers provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
+- **Vision Transformers** provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
 
   Samy Jelassi, Michael E. Sander, Yuanzhi Li
   
-- Data Augmentation as Feature Manipulation, *ICML 2022*. [(link)](https://arxiv.org/abs/2203.01572)  
+- **Data Augmentation** as Feature Manipulation, *ICML 2022*. [(link)](https://arxiv.org/abs/2203.01572)  
 
   Ruoqi Shen, Sébastien Bubeck, Suriya Gunasekar
   
-- Towards understanding how momentum improves generalization in deep learning, *ICML 2022*. [(link)](https://arxiv.org/abs/2207.05931)  
+- Towards understanding how **momentum** improves generalization in deep learning, *ICML 2022*. [(link)](https://arxiv.org/abs/2207.05931)  
 
   Samy Jelassi, Yuanzhi Li
   
-- The Benefits of Mixup for Feature Learning. [(link)](https://arxiv.org/abs/2303.08433)  
+- The Benefits of **Mixup** for Feature Learning. [(link)](https://arxiv.org/abs/2303.08433)  
 
   Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
   
-- Pruning Before Training May Improve Generalization, Provably. [(link)](https://arxiv.org/abs/2301.00335)
+- **Pruning Before Training** May Improve Generalization, Provably. [(link)](https://arxiv.org/abs/2301.00335)
 
   Hongru Yang, Yingbin Liang, Xiaojie Guo, Lingfei Wu, Zhangyang Wang
   
-- Graph Neural Networks Provably Benefit from Structural Information: A Feature Learning Perspective.
+- **Graph Neural Networks** Provably Benefit from Structural Information: A Feature Learning Perspective.
 
   Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki. 
   
