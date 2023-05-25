@@ -52,6 +52,32 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Yiwen Kou* and Zixiang Chen* and Yuanzhou Chen and Quanquan Gu
 
+- Vision Transformers provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
+
+  Samy Jelassi, Michael E. Sander, Yuanzhi Li
+  
+- Data Augmentation as Feature Manipulation, *ICML 2022*. [(link)](https://arxiv.org/abs/2203.01572)  
+
+  Ruoqi Shen, Sébastien Bubeck, Suriya Gunasekar
+  
+- Towards understanding how momentum improves generalization in deep learning, *ICML 2022*. [(link)](https://arxiv.org/abs/2207.05931)  
+
+  Samy Jelassi, Yuanzhi Li
+  
+- The Benefits of Mixup for Feature Learning. [(link)](https://arxiv.org/abs/2303.08433)  
+
+  Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
+  
+- Pruning Before Training May Improve Generalization, Provably. [(link)](https://arxiv.org/abs/2301.00335)
+
+  Hongru Yang, Yingbin Liang, Xiaojie Guo, Lingfei Wu, Zhangyang Wang
+  
+- Graph Neural Networks Provably Benefit from Structural Information: A Feature Learning Perspective.
+
+  Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki. 
+  
+
+
 ## Contact
 
 For any queries, please open an issue or feel free to reach out to us via email at weihuang.uts@gmail.com
