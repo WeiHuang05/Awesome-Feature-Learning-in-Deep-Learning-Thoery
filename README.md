@@ -22,6 +22,8 @@ We warmly invite anyone interested to join us. To participate:
 
 The reading list will be updated on a weekly/bi-weekly basis with the papers/articles we plan to discuss. You can find the reading list as follows.
 
+### Classification
+
 - Towards Understanding **Ensemble**, **Knowledge Distillation** and **Self-Distillation** in Deep Learning, *ICLR 2023*. [(link)](https://arxiv.org/abs/2012.09816)
 
   Zeyuan Allen-Zhu, Yuanzhi Li
@@ -79,6 +81,11 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki. 
   
 
+### Regression
+
+- High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation, NeurIPS 2022. [(link)](https://arxiv.org/abs/2205.01445)
+
+  Jimmy Ba, Murat A. Erdogdu, Taiji Suzuki, Zhichao Wang, Denny Wu, Greg Yang
 
 ## Contact
 
