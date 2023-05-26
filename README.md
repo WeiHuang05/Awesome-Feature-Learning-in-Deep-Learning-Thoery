@@ -91,6 +91,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Alex Damian, Jason D. Lee, Mahdi Soltanolkotabi
   
+- Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks. [(link)](https://arxiv.org/abs/2305.06986)
+
+  Eshaan Nichani, Alex Damian, Jason D. Lee
+  
 
 ## Contact
 
