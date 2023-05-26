@@ -97,7 +97,13 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   
 - The merged-staircase property: a necessary and nearly sufficient condition for SGD learning of sparse functions on two-layer neural networks, *COLT 2022*. [(link)](https://arxiv.org/abs/2202.08658)
 
-  Emmanuel Abbe, Enric Boix-Adsera, Theodor Misiakiewicz 
+  Emmanuel Abbe, Enric Boix-Adsera, Theodor Misiakiewicz
+  
+- Neural Networks Efficiently Learn Low-Dimensional Representations with SGD, *ICLR 2023*. [(link)](https://arxiv.org/abs/2209.14863)  
+
+  Alireza Mousavi-Hosseini, Sejun Park, Manuela Girotti, Ioannis Mitliagkas, Murat A. Erdogdu
+  
+  
 
 ## Contact
 
