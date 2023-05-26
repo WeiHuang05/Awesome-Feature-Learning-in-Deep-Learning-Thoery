@@ -86,6 +86,11 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation, NeurIPS 2022. [(link)](https://arxiv.org/abs/2205.01445)
 
   Jimmy Ba, Murat A. Erdogdu, Taiji Suzuki, Zhichao Wang, Denny Wu, Greg Yang
+  
+- Neural Networks can Learn Representations with Gradient Descent, *COLT 2022*. [(link)](https://arxiv.org/abs/2206.15144)  
+
+  Alex Damian, Jason D. Lee, Mahdi Soltanolkotabi
+  
 
 ## Contact
 
