@@ -95,6 +95,9 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Eshaan Nichani, Alex Damian, Jason D. Lee
   
+- The merged-staircase property: a necessary and nearly sufficient condition for SGD learning of sparse functions on two-layer neural networks, *COLT 2022*. [(link)](https://arxiv.org/abs/2202.08658)
+
+  Emmanuel Abbe, Enric Boix-Adsera, Theodor Misiakiewicz 
 
 ## Contact
 
