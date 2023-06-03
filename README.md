@@ -107,7 +107,9 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Alireza Mousavi-Hosseini, Sejun Park, Manuela Girotti, Ioannis Mitliagkas, Murat A. Erdogdu
   
-  
+- Learning Two-Layer Neural Networks, One (Giant) Step at a Time [(link)](https://arxiv.org/abs/2305.18270)  
+
+  Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic Stephan
 
 ## Contact
 
