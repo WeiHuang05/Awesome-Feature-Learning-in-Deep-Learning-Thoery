@@ -76,7 +76,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Hongru Yang, Yingbin Liang, Xiaojie Guo, Lingfei Wu, Zhangyang Wang
   
-- **Graph Neural Networks** Provably Benefit from Structural Information: A Feature Learning Perspective.
+- **Graph Neural Networks** Provably Benefit from Structural Information: A Feature Learning Perspective. *ICML 2023 Workshop, Contribued Talk*.
 
   Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki. 
   
