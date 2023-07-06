@@ -87,6 +87,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
 ### Regression
 
+- Feature Learning in Infinite-Width Neural Networks, *ICML 2021*. [(link)](https://arxiv.org/abs/2011.14522)
+
+  Greg Yang, Edward J. Hu
+
 - High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2205.01445)
 
   Jimmy Ba, Murat A. Erdogdu, Taiji Suzuki, Zhichao Wang, Denny Wu, Greg Yang
