@@ -39,6 +39,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - Benign Overfitting in Two-layer **Convolutional Neural Networks**, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2202.06526) [(video)](https://www.youtube.com/watch?v=n_F17KVDQHI)
 
   Yuan Cao, Zixiang Chen, Mikhail Belkin, Quanquan Gu
+
+- **Graph Neural Networks** Provably Benefit from Structural Information: A Feature Learning Perspective. *ICML 2023 Workshop, Contribued Talk*. [(link)](https://arxiv.org/abs/2306.13926)
+
+  Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki.   
   
 - Towards Understanding **Mixture of Experts** in Deep Learning, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2208.02813)
 
@@ -75,10 +79,6 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - **Pruning Before Training** May Improve Generalization, Provably. [(link)](https://arxiv.org/abs/2301.00335)
 
   Hongru Yang, Yingbin Liang, Xiaojie Guo, Lingfei Wu, Zhangyang Wang
-  
-- **Graph Neural Networks** Provably Benefit from Structural Information: A Feature Learning Perspective. *ICML 2023 Workshop, Contribued Talk*. [(link)](https://arxiv.org/abs/2306.13926)
-
-  Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki. 
   
 - A Theoretical Understanding of Shallow **Vision Transformers**: Learning, Generalization, and Sample Complexity, *ICLR 2023*. [(link)](https://arxiv.org/abs/2302.06015)  
 
