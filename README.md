@@ -84,10 +84,11 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Hongkang Li, Meng Wang, Sijia Liu, Pin-yu Chen
 
-- Local Signal Adaptivity: Provable Feature Learning in Neural Networks Beyond Kernels, *Neurips 2021* [(link)](https://proceedings.neurips.cc/paper/2021/hash/d064bf1ad039ff366564f352226e7640-Abstract.html)
+- Local Signal Adaptivity: Provable Feature Learning in Neural Networks Beyond Kernels, *Neurips 2021*. [(link)](https://proceedings.neurips.cc/paper/2021/hash/d064bf1ad039ff366564f352226e7640-Abstract.html)
+  
   Stefani Karp, Ezra Winston, Yuanzhi Li, Aarti Singh
 
-- Provably Learning Diverse Features in Multi-View Data with Midpoint Mixup, *ICML 2023* [(link)](https://proceedings.mlr.press/v202/chidambaram23a/chidambaram23a.pdf)
+- Provably Learning Diverse Features in Multi-View Data with Midpoint Mixup, *ICML 2023*. [(link)](https://proceedings.mlr.press/v202/chidambaram23a/chidambaram23a.pdf)
 
   Muthu Chidambaram, Xiang Wang, Chenwei Wu, Rong Ge
   
