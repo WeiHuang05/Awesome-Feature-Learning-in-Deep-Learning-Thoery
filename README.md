@@ -91,6 +91,8 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - Provably Learning Diverse Features in Multi-View Data with Midpoint Mixup, *ICML 2023*. [(link)](https://proceedings.mlr.press/v202/chidambaram23a/chidambaram23a.pdf)
 
   Muthu Chidambaram, Xiang Wang, Chenwei Wu, Rong Ge
+
+- HOW DOES SEMI-SUPERVISED LEARNING WITH PSEUDO-LABELERS WORK? A CASE STUDY, *ICLR 2023*. [(link)](https://openreview.net/forum?id=Dzmd-Cc8OI)  
   
 
 ### Regression
