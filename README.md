@@ -92,7 +92,9 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Muthu Chidambaram, Xiang Wang, Chenwei Wu, Rong Ge
 
-- HOW DOES SEMI-SUPERVISED LEARNING WITH PSEUDO-LABELERS WORK? A CASE STUDY, *ICLR 2023*. [(link)](https://openreview.net/forum?id=Dzmd-Cc8OI)  
+- HOW DOES SEMI-SUPERVISED LEARNING WITH PSEUDO-LABELERS WORK? A CASE STUDY, *ICLR 2023*. [(link)](https://openreview.net/forum?id=Dzmd-Cc8OI)
+
+  Yiwen Kou, Zixiang Chen, Yuan Cao, Quanquan Gu
   
 
 ### Regression
