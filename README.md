@@ -52,7 +52,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
 
-- Towards Understanding Feature Learning in **Out-of-Distribution** Generalization, *ICLR 2023 Workshop* [(link)](https://arxiv.org/abs/2304.11327) 
+- Towards Understanding Feature Learning in **Out-of-Distribution** Generalization, *NeurIPS 2023* [(link)](https://arxiv.org/abs/2304.11327) 
 
   Yongqiang Chen*, Wei Huang*, Kaiwen Zhou*, Yatao Bian, Bo Han, James Cheng
 
