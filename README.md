@@ -107,7 +107,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Jimmy Ba, Murat A. Erdogdu, Taiji Suzuki, Zhichao Wang, Denny Wu, Greg Yang
 
-- - Gradient-Based Feature Learning under Structured Data, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2309.03843)
+- Gradient-Based Feature Learning under Structured Data, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2309.03843)
 
   Alireza Mousavi-Hosseini, Denny Wu, Taiji Suzuki, Murat A Erdogdu
   
