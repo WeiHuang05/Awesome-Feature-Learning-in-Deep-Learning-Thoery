@@ -30,7 +30,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   
 - Feature purification: How **adversarial training** performs robust deep learning, *FOCS 2021*. [(link)](https://arxiv.org/abs/2005.10190)
   
-  Zeyuan Allen-Zhu, Yuanzhi Li
+  Zeyuan Allen-Zhu, Yuanzhi Li  
   
 - Toward understanding the feature learning process of self-supervised **contrastive learning**, *ICML 2021*. [(link)](https://arxiv.org/abs/2105.15134)
   
@@ -106,6 +106,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2205.01445)
 
   Jimmy Ba, Murat A. Erdogdu, Taiji Suzuki, Zhichao Wang, Denny Wu, Greg Yang
+
+- - Gradient-Based Feature Learning under Structured Data, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2309.03843)
+
+  Alireza Mousavi-Hosseini, Denny Wu, Taiji Suzuki, Murat A Erdogdu
   
 - Neural Networks can Learn Representations with Gradient Descent, *COLT 2022*. [(link)](https://arxiv.org/abs/2206.15144)  
 
