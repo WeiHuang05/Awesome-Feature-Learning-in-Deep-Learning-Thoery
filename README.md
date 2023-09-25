@@ -54,7 +54,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
 - Towards Understanding Feature Learning in **Out-of-Distribution** Generalization, *NeurIPS 2023* [(link)](https://arxiv.org/abs/2304.11327) 
 
-  Yongqiang Chen*, Wei Huang*, Kaiwen Zhou*, Yatao Bian, Bo Han, James Cheng
+  Wei Huang*, Yongqiang Chen*, Kaiwen Zhou*, Yatao Bian, Bo Han, James Cheng
 
 - Benign Overfitting for Two-layer **ReLU Networks**, *ICML 2023*. [(link)](https://arxiv.org/pdf/2303.04145.pdf) 
 
