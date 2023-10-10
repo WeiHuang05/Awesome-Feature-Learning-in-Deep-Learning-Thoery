@@ -22,7 +22,7 @@ We warmly invite anyone interested to join us. To participate:
 
 The reading list will be updated on a weekly/bi-weekly basis with the papers/articles we plan to discuss. You can find the reading list as follows.
 
-### Classification
+### Classification (CV)
 
 - Towards Understanding **Ensemble**, **Knowledge Distillation** and **Self-Distillation** in Deep Learning, *ICLR 2023*. [(link)](https://arxiv.org/abs/2012.09816)
 
@@ -94,7 +94,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
 - Local Signal Adaptivity: Provable Feature Learning in Neural Networks Beyond Kernels, *Neurips 2021*. [(link)](https://proceedings.neurips.cc/paper/2021/hash/d064bf1ad039ff366564f352226e7640-Abstract.html)
   
-  Stefani Karp, Ezra Winston, Yuanzhi Li, Aarti Singh  
+  Stefani Karp, Ezra Winston, Yuanzhi Li, Aarti Singh
   
 
 ### Regression
@@ -130,6 +130,13 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - Learning Two-Layer Neural Networks, One (Giant) Step at a Time [(link)](https://arxiv.org/abs/2305.18270)  
 
   Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic Stephan
+
+### LLM
+
+- Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer, *NeurIPS 2023* [(link)(https://arxiv.org/abs/2305.16380)]
+
+  Yuandong Tian, Yiping Wang, Beidi Chen, Simon Du
+
 
 ## Contact
 
