@@ -92,9 +92,13 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Yiwen Kou, Zixiang Chen, Yuan Cao, Quanquan Gu
 
-- Local Signal Adaptivity: Provable Feature Learning in Neural Networks Beyond Kernels, *Neurips 2021*. [(link)](https://proceedings.neurips.cc/paper/2021/hash/d064bf1ad039ff366564f352226e7640-Abstract.html)
+- Local Signal Adaptivity: Provable Feature Learning in Neural Networks Beyond Kernels, *NeurIPS 2021*. [(link)](https://proceedings.neurips.cc/paper/2021/hash/d064bf1ad039ff366564f352226e7640-Abstract.html)
   
   Stefani Karp, Ezra Winston, Yuanzhi Li, Aarti Singh
+
+- Provable Guarantees for Neural Networks via Gradient Feature Learning, *NeurIPS 2023*.
+
+  Zhenmei Shi*, Junyi Wei*, Yingyu Liang  
   
 
 ### Regression
@@ -136,6 +140,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer, *NeurIPS 2023* [(link)(https://arxiv.org/abs/2305.16380)]
 
   Yuandong Tian, Yiping Wang, Beidi Chen, Simon Du
+
+- JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention
+
+  Yuandong Tian, Yiping Wang, Zhenyu Zhang, Beidi Chen, Simon Du
 
 
 ## Contact
