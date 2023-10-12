@@ -107,7 +107,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
 ### Mean field Theory
 
-- Feature learning via mean-field Langevin dynamics: classifying sparse parities and beyond
+- Feature learning via mean-field Langevin dynamics: classifying sparse parities and beyond, *NeurIPS 2023*
 
   Taiji Suzuki, Denny Wu, Kazusato Oko, Atsushi Nitanda
   
