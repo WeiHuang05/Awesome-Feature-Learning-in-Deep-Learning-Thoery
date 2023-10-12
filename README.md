@@ -148,7 +148,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
 ### LLM
 
-- Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer, *NeurIPS 2023* [(link)(https://arxiv.org/abs/2305.16380)]
+- Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer, *NeurIPS 2023* [(link)](https://arxiv.org/abs/2305.16380)
 
   Yuandong Tian, Yiping Wang, Beidi Chen, Simon Du
 
