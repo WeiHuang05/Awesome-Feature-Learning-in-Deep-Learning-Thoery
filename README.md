@@ -22,7 +22,7 @@ We warmly invite anyone interested to join us. To participate:
 
 The reading list will be updated on a weekly/bi-weekly basis with the papers/articles we plan to discuss. You can find the reading list as follows.
 
-### Classification (CV)
+### Classification  
 
 - Towards Understanding **Ensemble**, **Knowledge Distillation** and **Self-Distillation** in Deep Learning, *ICLR 2023*. [(link)](https://arxiv.org/abs/2012.09816)
 
@@ -98,7 +98,18 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
 - Provable Guarantees for Neural Networks via Gradient Feature Learning, *NeurIPS 2023*.
 
-  Zhenmei Shi*, Junyi Wei*, Yingyu Liang  
+  Zhenmei Shi*, Junyi Wei*, Yingyu Liang
+
+- Robust Learning with Progressive Data Expansion Against **Spurious Correlation**, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2306.04949)
+
+  Yihe Deng, Yu Yang, Baharan Mirzasoleiman, Quanquan Gu
+
+
+### Mean field Theory
+
+- Feature learning via mean-field Langevin dynamics: classifying sparse parities and beyond
+
+  Taiji Suzuki, Denny Wu, Kazusato Oko, Atsushi Nitanda
   
 
 ### Regression
