@@ -104,6 +104,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Yihe Deng, Yu Yang, Baharan Mirzasoleiman, Quanquan Gu
 
+- Understanding Transferable Representation Learning and Zero-shot Transfer in **CLIP**, [(link)](https://arxiv.org/pdf/2310.00927.pdf)
+
+  Zixiang Chen* and Yihe Deng* and Yuanzhi Li and Quanquan Gu
+
 
 ### Mean field Theory
 
@@ -155,6 +159,11 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention
 
   Yuandong Tian, Yiping Wang, Zhenyu Zhang, Beidi Chen, Simon Du
+
+- On the Role of Attention in Prompt-tuning, *ICML 2023* [(link)](https://arxiv.org/pdf/2306.03435.pdf)
+
+  Samet Oymak*, Ankit Singh Rawat*, Mahdi Soltanolkotabi*, Christos Thrampoulidis*
+  
 
 
 ## Contact
