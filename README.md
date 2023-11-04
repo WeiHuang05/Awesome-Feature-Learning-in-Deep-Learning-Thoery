@@ -109,6 +109,20 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   Zixiang Chen* and Yihe Deng* and Yuanzhi Li and Quanquan Gu
 
 
+### K-parities (XOR)
+
+- Benign Overfitting and Grokking in ReLU Networks for XOR Cluster Data. [(link)](https://arxiv.org/abs/2310.02541)
+
+  Zhiwei Xu, Yutong Wang, Spencer Frei, Gal Vardi, Wei Hu
+
+- Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data. [(link)](https://arxiv.org/abs/2310.01975)
+
+  Xuran Meng, Difan Zou, Yuan Cao
+
+- SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the XOR problem. [(link)](https://arxiv.org/abs/2309.15111)
+
+  Margalit Glasgow  
+
 ### Mean field Theory
 
 - Feature learning via mean-field Langevin dynamics: classifying sparse parities and beyond, *NeurIPS 2023*
