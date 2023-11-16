@@ -116,6 +116,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett
 
+- Random Feature Amplification: Feature Learning and Generalization in Neural Networks, *JMLR 2023*, [(link)](https://arxiv.org/abs/2202.07626)
+
+  Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett
+
 
 ### K-parities (XOR)
 
