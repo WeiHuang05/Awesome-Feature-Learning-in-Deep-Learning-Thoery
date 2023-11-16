@@ -108,6 +108,14 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Zixiang Chen* and Yihe Deng* and Yuanzhi Li and Quanquan Gu
 
+- Why Does **Sharpness-Aware Minimization** Generalize Better Than SGD? *NeurIPS 2023*, [(link)](https://nips.cc/virtual/2023/poster/72901)
+
+  Zixiang Chen · Junkai Zhang · Yiwen Kou · Xiangning Chen · Cho-Jui Hsieh · Quanquan Gu
+
+- Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for **Noisy Linear Data**, *COLT 2022*, [(link)](https://proceedings.mlr.press/v178/frei22a/frei22a.pdf)
+
+  Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett
+
 
 ### K-parities (XOR)
 
