@@ -19,7 +19,6 @@ We warmly invite anyone interested to join us. To participate:
 ## Reading List
 
 
-
 The reading list will be updated on a weekly/bi-weekly basis with the papers/articles we plan to discuss. You can find the reading list as follows.
 
 ### Classification  
@@ -189,6 +188,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - On the Role of Attention in Prompt-tuning, *ICML 2023* [(link)](https://arxiv.org/pdf/2306.03435.pdf)
 
   Samet Oymak*, Ankit Singh Rawat*, Mahdi Soltanolkotabi*, Christos Thrampoulidis*
+
+- In-Context Convergence of Transformers, *NeurIPS 2023 workshop* [(link)](https://arxiv.org/abs/2310.05249)
+
+  Yu Huang, Yuan Cheng, Yingbin Liang
   
 
 
