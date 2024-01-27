@@ -119,6 +119,14 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett
 
+- Benign Overfitting in Adversarially Robust Linear Classification, *UAI 2023*, [(link)](https://proceedings.mlr.press/v216/chen23b.html)
+
+  Jinghui Chen, Yuan Cao, Quanquan Gu
+
+- Benign Oscillation of Stochastic Gradient Descent with Large Learning Rates, *ICLR 2024*, [(link)](https://arxiv.org/abs/2310.17074)
+
+  Miao Lu, Beining Wu, Xiaodong Yang, Difan Zou
+
 
 ### K-parities (XOR)
 
