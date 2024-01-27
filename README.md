@@ -175,6 +175,12 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic Stephan
 
+- Gradient-Based Feature Learning under Structured Data, *NeurIPS 2023*. [(link)](https://arxiv.org/pdf/2309.03843.pdf)
+
+  Alireza Mousavi-Hosseini, Denny Wu, Taiji Suzuki, Murat A. Erdogdu
+
+
+
 ### LLM
 
 - Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer, *NeurIPS 2023* [(link)](https://arxiv.org/abs/2305.16380)
