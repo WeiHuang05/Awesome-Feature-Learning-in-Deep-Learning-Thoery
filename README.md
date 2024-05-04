@@ -146,7 +146,11 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - What Improves the Generalization of **Graph Transformer**? A Theoretical Dive into Self-attention and Positional Encoding, [(link)](https://openreview.net/forum?id=aJl5aK9n7e)
 
   Hongkang Li, Meng Wang, Tengfei Ma, Sijia Liu, ZAIXI ZHANG, Pin-Yu Chen
+
+- Joint Edge-Model Sparse Learning is Provably Efficient for **Graph Neural Networks**, *ICLR 2023*, [(link)](https://openreview.net/pdf?id=4UldFtZ_CVF)
   
+  Shuai Zhang, Meng Wang, Pin-Yu Chen, Sijia Liu, Songtao Lu, Miao Liu  
+
 
 ### Regression
 
@@ -217,6 +221,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - In-Context Convergence of Transformers, *NeurIPS 2023 workshop* [(link)](https://arxiv.org/abs/2310.05249)
 
   Yu Huang, Yuan Cheng, Yingbin Liang
+
+- Training Nonlinear Transformers for Efficient In-Context Learning: A Theoretical Learning and Generalization Analysis, [(link)](https://arxiv.org/abs/2402.15607)
+
+  Hongkang Li, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen  
   
 
 
