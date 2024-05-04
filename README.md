@@ -129,26 +129,21 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
 - Understanding Convergence and Generalization in **Federated Learning** through Feature Learning Theory, *ICLR 2024*, [(link)](https://openreview.net/pdf?id=EcetCr4trp)
 
-  Wei Huang, Ye Shi, Zhongyi Cai, Taiji Suzuki  
+  Wei Huang, Ye Shi, Zhongyi Cai, Taiji Suzuki
 
+- Benign Overfitting and Grokking in ReLU Networks for **XOR** Cluster Data, *ICLR 2024*, [(link)](https://arxiv.org/abs/2310.02541)
 
-### K-parities (XOR)
+  Zhiwei Xu, Yutong Wang, Spencer Frei, Gal Vardi, Wei Hu  
 
-- Benign Overfitting and Grokking in ReLU Networks for XOR Cluster Data. [(link)](https://arxiv.org/abs/2310.02541)
-
-  Zhiwei Xu, Yutong Wang, Spencer Frei, Gal Vardi, Wei Hu
-
-- Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data. [(link)](https://arxiv.org/abs/2310.01975)
+- Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for **XOR** Data. [(link)](https://arxiv.org/abs/2310.01975)
 
   Xuran Meng, Difan Zou, Yuan Cao
 
-- SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the XOR problem. [(link)](https://arxiv.org/abs/2309.15111)
+- SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the **XOR** problem. [(link)](https://arxiv.org/abs/2309.15111)
 
   Margalit Glasgow  
 
-### Mean field Theory
-
-- Feature learning via mean-field Langevin dynamics: classifying sparse parities and beyond, *NeurIPS 2023*
+- Feature learning via mean-field Langevin dynamics: classifying **sparse parities** and beyond, *NeurIPS 2023*,
 
   Taiji Suzuki, Denny Wu, Kazusato Oko, Atsushi Nitanda
   
