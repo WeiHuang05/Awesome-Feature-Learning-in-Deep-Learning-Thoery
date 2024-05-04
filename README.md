@@ -27,21 +27,21 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Zeyuan Allen-Zhu, Yuanzhi Li
   
-- Feature purification: How **adversarial training** performs robust deep learning, *FOCS 2021*. [(link)](https://arxiv.org/abs/2005.10190)
-  
-  Zeyuan Allen-Zhu, Yuanzhi Li  
-  
-- Toward understanding the feature learning process of self-supervised **contrastive learning**, *ICML 2021*. [(link)](https://arxiv.org/abs/2105.15134)
-  
-  Zixin Wen, Yuanzhi Li 
-  
 - Benign Overfitting in Two-layer **Convolutional Neural Networks**, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2202.06526) [(video)](https://www.youtube.com/watch?v=n_F17KVDQHI)
 
   Yuan Cao, Zixiang Chen, Mikhail Belkin, Quanquan Gu
 
 - **Graph Neural Networks** Provably Benefit from Structural Information: A Feature Learning Perspective. *ICML 2023 Workshop, Contribued Talk*. [(link)](https://arxiv.org/abs/2306.13926)
 
-  Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki.   
+  Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki.
+
+- Feature purification: How **adversarial training** performs robust deep learning, *FOCS 2021*. [(link)](https://arxiv.org/abs/2005.10190)
+  
+  Zeyuan Allen-Zhu, Yuanzhi Li    
+
+- Toward understanding the feature learning process of self-supervised **contrastive learning**, *ICML 2021*. [(link)](https://arxiv.org/abs/2105.15134)
+  
+  Zixin Wen, Yuanzhi Li    
   
 - Towards Understanding **Mixture of Experts** in Deep Learning, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2208.02813)
 
@@ -58,10 +58,6 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - Benign Overfitting for Two-layer **ReLU Networks**, *ICML 2023*. [(link)](https://arxiv.org/pdf/2303.04145.pdf) 
 
   Yiwen Kou* and Zixiang Chen* and Yuanzhou Chen and Quanquan Gu
-
-- **Vision Transformers** provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
-
-  Samy Jelassi, Michael E. Sander, Yuanzhi Li
   
 - **Data Augmentation** as Feature Manipulation, *ICML 2022*. [(link)](https://arxiv.org/abs/2203.01572)  
 
@@ -78,6 +74,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - **Pruning Before Training** May Improve Generalization, Provably. [(link)](https://arxiv.org/abs/2301.00335)
 
   Hongru Yang, Yingbin Liang, Xiaojie Guo, Lingfei Wu, Zhangyang Wang
+
+- **Vision Transformers** provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
+
+  Samy Jelassi, Michael E. Sander, Yuanzhi Li  
   
 - A Theoretical Understanding of Shallow **Vision Transformers**: Learning, Generalization, and Sample Complexity, *ICLR 2023*. [(link)](https://arxiv.org/abs/2302.06015)  
 
@@ -95,7 +95,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   
   Stefani Karp, Ezra Winston, Yuanzhi Li, Aarti Singh
 
-- Provable Guarantees for Neural Networks via Gradient Feature Learning, *NeurIPS 2023*.
+- Provable Guarantees for Neural Networks via Gradient Feature Learning, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2310.12408)
 
   Zhenmei Shi*, Junyi Wei*, Yingyu Liang
 
@@ -126,6 +126,10 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 - Benign Oscillation of Stochastic Gradient Descent with Large Learning Rates, *ICLR 2024*, [(link)](https://arxiv.org/abs/2310.17074)
 
   Miao Lu, Beining Wu, Xiaodong Yang, Difan Zou
+
+- Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory, *ICLR 2024*, [(link)](https://openreview.net/pdf?id=EcetCr4trp)
+
+  Wei Huang, Ye Shi, Zhongyi Cai, Taiji Suzuki  
 
 
 ### K-parities (XOR)
