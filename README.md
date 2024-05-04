@@ -186,7 +186,13 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Alireza Mousavi-Hosseini, Denny Wu, Taiji Suzuki, Murat A. Erdogdu
 
+- Optimal criterion for feature learning of two-layer linear neural network in high dimensional interpolation regime, *ICLR 2024*, [(link)](https://openreview.net/forum?id=Jc0FssXh2R)
 
+  Keita Suzuki, Taiji Suzuki
+
+- Improved statistical and computational complexity of the mean-field Langevin dynamics under structured data, *ICLR 2024*, [(link)](https://openreview.net/forum?id=Of2nEDc4s7)
+
+  Atsushi Nitanda, Kazusato Oko, Taiji Suzuki, Denny Wu
 
 ### LLM
 
