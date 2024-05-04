@@ -143,7 +143,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Atsushi Nitanda, Kazusato Oko, Taiji Suzuki, Denny Wu
 
-- What Improves the Generalization of Graph Transformer? A Theoretical Dive into Self-attention and Positional Encoding, [(link)](https://openreview.net/forum?id=aJl5aK9n7e)
+- What Improves the Generalization of **Graph Transformer**? A Theoretical Dive into Self-attention and Positional Encoding, [(link)](https://openreview.net/forum?id=aJl5aK9n7e)
 
   Hongkang Li, Meng Wang, Tengfei Ma, Sijia Liu, ZAIXI ZHANG, Pin-Yu Chen
   
