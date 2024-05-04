@@ -75,14 +75,6 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Hongru Yang, Yingbin Liang, Xiaojie Guo, Lingfei Wu, Zhangyang Wang
 
-- **Vision Transformers** provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
-
-  Samy Jelassi, Michael E. Sander, Yuanzhi Li  
-  
-- A Theoretical Understanding of Shallow **Vision Transformers**: Learning, Generalization, and Sample Complexity, *ICLR 2023*. [(link)](https://arxiv.org/abs/2302.06015)  
-
-  Hongkang Li, Meng Wang, Sijia Liu, Pin-yu Chen
-
 - Provably Learning Diverse Features in Multi-View Data with Midpoint **Mixup**, *ICML 2023*. [(link)](https://proceedings.mlr.press/v202/chidambaram23a/chidambaram23a.pdf)
 
   Muthu Chidambaram, Xiang Wang, Chenwei Wu, Rong Ge
@@ -147,7 +139,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Taiji Suzuki, Denny Wu, Kazusato Oko, Atsushi Nitanda
   
-- Improved statistical and computational complexity of the mean-field Langevin dynamics under structured data, *ICLR 2024*, [(link)](https://openreview.net/forum?id=Of2nEDc4s7)
+- Improved statistical and computational complexity of the mean-field Langevin dynamics under **structured data**, *ICLR 2024*, [(link)](https://openreview.net/forum?id=Of2nEDc4s7)
 
   Atsushi Nitanda, Kazusato Oko, Taiji Suzuki, Denny Wu
   
@@ -195,7 +187,16 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   Keita Suzuki, Taiji Suzuki
 
 
-### LLM
+### Transformers
+
+
+- **Vision Transformers** provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
+
+  Samy Jelassi, Michael E. Sander, Yuanzhi Li  
+  
+- A Theoretical Understanding of Shallow **Vision Transformers**: Learning, Generalization, and Sample Complexity, *ICLR 2023*. [(link)](https://arxiv.org/abs/2302.06015)  
+
+  Hongkang Li, Meng Wang, Sijia Liu, Pin-yu Chen
 
 - Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer, *NeurIPS 2023* [(link)](https://arxiv.org/abs/2305.16380)
 
