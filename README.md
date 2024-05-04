@@ -91,11 +91,11 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Yiwen Kou, Zixiang Chen, Yuan Cao, Quanquan Gu
 
-- Local Signal Adaptivity: Provable Feature Learning in Neural Networks Beyond Kernels, *NeurIPS 2021*. [(link)](https://proceedings.neurips.cc/paper/2021/hash/d064bf1ad039ff366564f352226e7640-Abstract.html)
+- **Local Signal Adaptivity**: Provable Feature Learning in Neural Networks Beyond Kernels, *NeurIPS 2021*. [(link)](https://proceedings.neurips.cc/paper/2021/hash/d064bf1ad039ff366564f352226e7640-Abstract.html)
   
   Stefani Karp, Ezra Winston, Yuanzhi Li, Aarti Singh
 
-- Provable Guarantees for Neural Networks via Gradient Feature Learning, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2310.12408)
+- Provable Guarantees for Neural Networks via **Gradient Feature Learning**, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2310.12408)
 
   Zhenmei Shi*, Junyi Wei*, Yingyu Liang
 
@@ -139,13 +139,13 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Xuran Meng, Difan Zou, Yuan Cao
 
-- SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the **XOR** problem. [(link)](https://arxiv.org/abs/2309.15111)
+- SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the **XOR** problem, *ICLR 2024*, [(link)](https://arxiv.org/abs/2309.15111)
 
   Margalit Glasgow  
 
-- Feature learning via mean-field Langevin dynamics: classifying **sparse parities** and beyond, *NeurIPS 2023*,
+- Feature learning via mean-field Langevin dynamics: classifying **sparse parities** and beyond, *NeurIPS 2023*, [(link)](https://openreview.net/forum?id=tj86aGVNb3)
 
-  Taiji Suzuki, Denny Wu, Kazusato Oko, Atsushi Nitanda
+  Taiji Suzuki, Denny Wu, Kazusato Oko, Atsushi Nitanda  
   
 
 ### Regression
