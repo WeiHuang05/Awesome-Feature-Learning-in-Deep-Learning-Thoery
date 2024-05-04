@@ -145,7 +145,11 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
 - Feature learning via mean-field Langevin dynamics: classifying **sparse parities** and beyond, *NeurIPS 2023*, [(link)](https://openreview.net/forum?id=tj86aGVNb3)
 
-  Taiji Suzuki, Denny Wu, Kazusato Oko, Atsushi Nitanda  
+  Taiji Suzuki, Denny Wu, Kazusato Oko, Atsushi Nitanda
+  
+- Improved statistical and computational complexity of the mean-field Langevin dynamics under structured data, *ICLR 2024*, [(link)](https://openreview.net/forum?id=Of2nEDc4s7)
+
+  Atsushi Nitanda, Kazusato Oko, Taiji Suzuki, Denny Wu
   
 
 ### Regression
@@ -190,9 +194,6 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
 
   Keita Suzuki, Taiji Suzuki
 
-- Improved statistical and computational complexity of the mean-field Langevin dynamics under structured data, *ICLR 2024*, [(link)](https://openreview.net/forum?id=Of2nEDc4s7)
-
-  Atsushi Nitanda, Kazusato Oko, Taiji Suzuki, Denny Wu
 
 ### LLM
 
