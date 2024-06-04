@@ -4,9 +4,6 @@
 ## Introduction
 
 Welcome to the GitHub repository of our Feature Learning in Deep Learning Theory Reading Group! This group is dedicated to the study, discussion, and understanding of feature learning concepts and techniques in the field of Deep Learning. 
-
-## Objective
-
 Our objective is to bring together researchers, professionals, students, and anyone interested in feature learning, to learn from each other, discuss recent advancements and challenges, and contribute to the knowledge pool of Deep Learning Theory.
 
 ## Participation
@@ -16,12 +13,15 @@ We warmly invite anyone interested to join us. To participate:
 1. **Follow this Repository**: Keep up to date with the reading materials we will be discussing.
 2. **Discussion**: Participate in discussions on the `Issues` tab. Each paper will have a dedicated issue where the discussion will take place.
 
-## Reading List
+
+## Table of Contents
+
+1. [Classification](#classification)
+2. [Regression](#regression)
+3. [Transformers](#transformers)
 
 
-The reading list will be updated on a weekly/bi-weekly basis with the papers/articles we plan to discuss. You can find the reading list as follows.
-
-### Classification  
+## Classification  
 
 - Towards Understanding **Ensemble**, **Knowledge Distillation** and **Self-Distillation** in Deep Learning, *ICLR 2023*. [(link)](https://arxiv.org/abs/2012.09816)
 
@@ -152,7 +152,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   Shuai Zhang, Meng Wang, Pin-Yu Chen, Sijia Liu, Songtao Lu, Miao Liu  
 
 
-### Regression
+## Regression
 
 - Feature Learning in Infinite-Width Neural Networks, *ICML 2021*. [(link)](https://arxiv.org/abs/2011.14522)
 
@@ -195,7 +195,7 @@ The reading list will be updated on a weekly/bi-weekly basis with the papers/art
   Keita Suzuki, Taiji Suzuki
 
 
-### Transformers
+## Transformers
 
 
 - **Vision Transformers** provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
