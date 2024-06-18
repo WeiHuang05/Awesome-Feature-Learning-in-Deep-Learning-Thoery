@@ -149,7 +149,11 @@ We warmly invite anyone interested to join us. To participate:
 
 - Joint Edge-Model Sparse Learning is Provably Efficient for **Graph Neural Networks**, *ICLR 2023*, [(link)](https://openreview.net/pdf?id=4UldFtZ_CVF)
   
-  Shuai Zhang, Meng Wang, Pin-Yu Chen, Sijia Liu, Songtao Lu, Miao Liu  
+  Shuai Zhang, Meng Wang, Pin-Yu Chen, Sijia Liu, Songtao Lu, Miao Liu
+
+- Provably Neural Active Learning Succeeds via Prioritizing Perplexing Samples, *ICML 2024*, [link](https://arxiv.org/abs/2406.03944)
+
+  Dake Bu, Wei Huang, Taiji Suzuki, Ji Cheng, Qingfu Zhang, Zhiqiang Xu, Hau-San Wong
 
 
 ## Regression
