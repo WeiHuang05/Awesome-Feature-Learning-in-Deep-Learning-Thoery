@@ -155,7 +155,9 @@ We warmly invite anyone interested to join us. To participate:
 
   Dake Bu, Wei Huang, Taiji Suzuki, Ji Cheng, Qingfu Zhang, Zhiqiang Xu, Hau-San Wong
 
-- Provable Benefits of Local Steps in Heterogeneous Federated Learning for Neural Networks: A Feature Learning Perspective, *ICML 2024*, [link](https://proceedings.mlr.press/v235/bao24a.html)  
+- Provable Benefits of Local Steps in Heterogeneous Federated Learning for Neural Networks: A Feature Learning Perspective, *ICML 2024*, [link](https://proceedings.mlr.press/v235/bao24a.html)
+
+  Yajie Bao, Michael Crawshaw, Mingrui Liu
 
 ## Regression
 
