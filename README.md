@@ -205,11 +205,11 @@ We warmly invite anyone interested to join us. To participate:
 ## Transformers
 
 
-- **Vision Transformers** provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
+- Vision Transformers provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
 
   Samy Jelassi, Michael E. Sander, Yuanzhi Li  
   
-- A Theoretical Understanding of Shallow **Vision Transformers**: Learning, Generalization, and Sample Complexity, *ICLR 2023*. [(link)](https://arxiv.org/abs/2302.06015)  
+- A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity, *ICLR 2023*. [(link)](https://arxiv.org/abs/2302.06015)  
 
   Hongkang Li, Meng Wang, Sijia Liu, Pin-yu Chen
 
@@ -233,10 +233,13 @@ We warmly invite anyone interested to join us. To participate:
 
   Hongkang Li, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen
 
-
 - Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization, NeurIPS 2024, [(link)](https://arxiv.org/abs/2409.19345)
 
   Jiarui Jiang*, Wei Huang*, Miao Zhang, Taiji Suzuki, Liqiang Nie
+
+- Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism, [(link)](https://arxiv.org/abs/2409.17625)
+
+  Keitaro Sakamoto, Issei Sato
 
     
   
