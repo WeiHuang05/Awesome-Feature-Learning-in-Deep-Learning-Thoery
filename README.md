@@ -118,46 +118,28 @@ We warmly invite anyone interested to join us. To participate:
 
 ## Transformers
 
-
 - Vision Transformers provably learn spatial structure, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2210.09221)
-
-  Samy Jelassi, Michael E. Sander, Yuanzhi Li  
   
 - A Theoretical Understanding of Shallow Vision Transformers: Learning, Generalization, and Sample Complexity, *ICLR 2023*. [(link)](https://arxiv.org/abs/2302.06015)  
 
-  Hongkang Li, Meng Wang, Sijia Liu, Pin-yu Chen
-
 - Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer, *NeurIPS 2023* [(link)](https://arxiv.org/abs/2305.16380)
-
-  Yuandong Tian, Yiping Wang, Beidi Chen, Simon Du
 
 - JoMA: Demystifying Multilayer Transformers via JOint Dynamics of MLP and Attention
 
-  Yuandong Tian, Yiping Wang, Zhenyu Zhang, Beidi Chen, Simon Du
-
 - On the Role of Attention in Prompt-tuning, *ICML 2023* [(link)](https://arxiv.org/pdf/2306.03435.pdf)
-
-  Samet Oymak*, Ankit Singh Rawat*, Mahdi Soltanolkotabi*, Christos Thrampoulidis*
 
 - In-Context Convergence of Transformers, *NeurIPS 2023 workshop* [(link)](https://arxiv.org/abs/2310.05249)
 
-  Yu Huang, Yuan Cheng, Yingbin Liang
-
 - Training Nonlinear Transformers for Efficient In-Context Learning: A Theoretical Learning and Generalization Analysis, [(link)](https://arxiv.org/abs/2402.15607)
-
-  Hongkang Li, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen
 
 - Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization, NeurIPS 2024, [(link)](https://arxiv.org/abs/2409.19345)
 
-  Jiarui Jiang*, Wei Huang*, Miao Zhang, Taiji Suzuki, Liqiang Nie
-
 - Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism, [(link)](https://arxiv.org/abs/2409.17625)
 
-  Keitaro Sakamoto, Issei Sato
+- Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context, [(link)](https://arxiv.org/abs/2410.01774)  
 
     
   
-
 
 ## Contact
 
