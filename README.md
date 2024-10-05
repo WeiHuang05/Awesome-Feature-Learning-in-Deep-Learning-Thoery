@@ -231,7 +231,14 @@ We warmly invite anyone interested to join us. To participate:
 
 - Training Nonlinear Transformers for Efficient In-Context Learning: A Theoretical Learning and Generalization Analysis, [(link)](https://arxiv.org/abs/2402.15607)
 
-  Hongkang Li, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen  
+  Hongkang Li, Meng Wang, Songtao Lu, Xiaodong Cui, Pin-Yu Chen
+
+
+- Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization, NeurIPS 2024, [(link)](https://arxiv.org/abs/2409.19345)
+
+  Jiarui Jiang*, Wei Huang*, Miao Zhang, Taiji Suzuki, Liqiang Nie
+
+    
   
 
 
