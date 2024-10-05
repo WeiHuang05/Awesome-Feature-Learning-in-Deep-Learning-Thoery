@@ -24,140 +24,72 @@ We warmly invite anyone interested to join us. To participate:
 ## Classification  
 
 - Towards Understanding **Ensemble**, **Knowledge Distillation** and **Self-Distillation** in Deep Learning, *ICLR 2023*. [(link)](https://arxiv.org/abs/2012.09816)
-
-  Zeyuan Allen-Zhu, Yuanzhi Li
   
 - Benign Overfitting in Two-layer **Convolutional Neural Networks**, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2202.06526) [(video)](https://www.youtube.com/watch?v=n_F17KVDQHI)
 
-  Yuan Cao, Zixiang Chen, Mikhail Belkin, Quanquan Gu
-
 - **Graph Neural Networks** Provably Benefit from Structural Information: A Feature Learning Perspective. *ICML 2023 Workshop, Contribued Talk*. [(link)](https://arxiv.org/abs/2306.13926)
 
-  Wei Huang, Yuan Cao, Haonan Wang, Xin Cao, Taiji Suzuki.
-
 - Feature purification: How **adversarial training** performs robust deep learning, *FOCS 2021*. [(link)](https://arxiv.org/abs/2005.10190)
-  
-  Zeyuan Allen-Zhu, Yuanzhi Li    
 
 - Toward understanding the feature learning process of self-supervised **contrastive learning**, *ICML 2021*. [(link)](https://arxiv.org/abs/2105.15134)
   
-  Zixin Wen, Yuanzhi Li    
-  
 - Towards Understanding **Mixture of Experts** in Deep Learning, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2208.02813)
-
-  Zixiang Chen, Yihe Deng, Yue Wu, Quanquan Gu, Yuanzhi Li
   
 - Understanding the Generalization of **Adam** in Learning Neural Networks with Proper Regularization, *ICLR 2023* [(link)](https://arxiv.org/abs/2108.11371)
 
-  Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
-
 - Towards Understanding Feature Learning in **Out-of-Distribution** Generalization, *NeurIPS 2023* [(link)](https://arxiv.org/abs/2304.11327) 
 
-  Wei Huang*, Yongqiang Chen*, Kaiwen Zhou*, Yatao Bian, Bo Han, James Cheng
-
 - Benign Overfitting for Two-layer **ReLU Networks**, *ICML 2023*. [(link)](https://arxiv.org/pdf/2303.04145.pdf) 
-
-  Yiwen Kou* and Zixiang Chen* and Yuanzhou Chen and Quanquan Gu
   
 - **Data Augmentation** as Feature Manipulation, *ICML 2022*. [(link)](https://arxiv.org/abs/2203.01572)  
-
-  Ruoqi Shen, Sébastien Bubeck, Suriya Gunasekar
   
 - Towards understanding how **momentum** improves generalization in deep learning, *ICML 2022*. [(link)](https://arxiv.org/abs/2207.05931)  
-
-  Samy Jelassi, Yuanzhi Li
   
 - The Benefits of **Mixup** for Feature Learning. [(link)](https://arxiv.org/abs/2303.08433)  
-
-  Difan Zou, Yuan Cao, Yuanzhi Li, Quanquan Gu
   
 - **Pruning Before Training** May Improve Generalization, Provably. [(link)](https://arxiv.org/abs/2301.00335)
 
-  Hongru Yang, Yingbin Liang, Xiaojie Guo, Lingfei Wu, Zhangyang Wang
-
 - Provably Learning Diverse Features in Multi-View Data with Midpoint **Mixup**, *ICML 2023*. [(link)](https://proceedings.mlr.press/v202/chidambaram23a/chidambaram23a.pdf)
-
-  Muthu Chidambaram, Xiang Wang, Chenwei Wu, Rong Ge
 
 - How Does **Semi-supervised** Learning with Pseudo-Labels? A Case Study, *ICLR 2023*. [(link)](https://openreview.net/forum?id=Dzmd-Cc8OI)
 
-  Yiwen Kou, Zixiang Chen, Yuan Cao, Quanquan Gu
-
 - **Local Signal Adaptivity**: Provable Feature Learning in Neural Networks Beyond Kernels, *NeurIPS 2021*. [(link)](https://proceedings.neurips.cc/paper/2021/hash/d064bf1ad039ff366564f352226e7640-Abstract.html)
-  
-  Stefani Karp, Ezra Winston, Yuanzhi Li, Aarti Singh
 
 - Provable Guarantees for Neural Networks via **Gradient Feature Learning**, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2310.12408)
 
-  Zhenmei Shi*, Junyi Wei*, Yingyu Liang
-
 - Robust Learning with Progressive Data Expansion Against **Spurious Correlation**, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2306.04949)
-
-  Yihe Deng, Yu Yang, Baharan Mirzasoleiman, Quanquan Gu
 
 - Understanding Transferable Representation Learning and Zero-shot Transfer in **CLIP**, [(link)](https://arxiv.org/pdf/2310.00927.pdf)
 
-  Zixiang Chen* and Yihe Deng* and Yuanzhi Li and Quanquan Gu
-
 - Why Does **Sharpness-Aware Minimization** Generalize Better Than SGD? *NeurIPS 2023*, [(link)](https://nips.cc/virtual/2023/poster/72901)
-
-  Zixiang Chen · Junkai Zhang · Yiwen Kou · Xiangning Chen · Cho-Jui Hsieh · Quanquan Gu
 
 - Benign Overfitting without Linearity: Neural Network Classifiers Trained by Gradient Descent for **Noisy Linear Data**, *COLT 2022*, [(link)](https://proceedings.mlr.press/v178/frei22a/frei22a.pdf)
 
-  Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett
-
 - **Random Feature Amplification**: Feature Learning and Generalization in Neural Networks, *JMLR 2023*, [(link)](https://arxiv.org/abs/2202.07626)
-
-  Spencer Frei, Niladri S. Chatterji, Peter L. Bartlett
 
 - Benign Overfitting in **Adversarially Robust** Linear Classification, *UAI 2023*, [(link)](https://proceedings.mlr.press/v216/chen23b.html)
 
-  Jinghui Chen, Yuan Cao, Quanquan Gu
-
 - Benign Oscillation of Stochastic Gradient Descent with **Large Learning Rates**, *ICLR 2024*, [(link)](https://arxiv.org/abs/2310.17074)
-
-  Miao Lu, Beining Wu, Xiaodong Yang, Difan Zou
 
 - Understanding Convergence and Generalization in **Federated Learning** through Feature Learning Theory, *ICLR 2024*, [(link)](https://openreview.net/pdf?id=EcetCr4trp)
 
-  Wei Huang, Ye Shi, Zhongyi Cai, Taiji Suzuki
-
 - Benign Overfitting and Grokking in ReLU Networks for **XOR** Cluster Data, *ICLR 2024*, [(link)](https://arxiv.org/abs/2310.02541)
-
-  Zhiwei Xu, Yutong Wang, Spencer Frei, Gal Vardi, Wei Hu  
 
 - Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for **XOR** Data. [(link)](https://arxiv.org/abs/2310.01975)
 
-  Xuran Meng, Difan Zou, Yuan Cao
-
 - SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the **XOR** problem, *ICLR 2024*, [(link)](https://arxiv.org/abs/2309.15111)
 
-  Margalit Glasgow  
-
 - Feature learning via mean-field Langevin dynamics: classifying **sparse parities** and beyond, *NeurIPS 2023*, [(link)](https://openreview.net/forum?id=tj86aGVNb3)
-
-  Taiji Suzuki, Denny Wu, Kazusato Oko, Atsushi Nitanda
   
 - Improved statistical and computational complexity of the mean-field Langevin dynamics under **structured data**, *ICLR 2024*, [(link)](https://openreview.net/forum?id=Of2nEDc4s7)
 
-  Atsushi Nitanda, Kazusato Oko, Taiji Suzuki, Denny Wu
-
 - What Improves the Generalization of **Graph Transformer**? A Theoretical Dive into Self-attention and Positional Encoding, [(link)](https://openreview.net/forum?id=aJl5aK9n7e)
 
-  Hongkang Li, Meng Wang, Tengfei Ma, Sijia Liu, ZAIXI ZHANG, Pin-Yu Chen
-
 - Joint Edge-Model Sparse Learning is Provably Efficient for **Graph Neural Networks**, *ICLR 2023*, [(link)](https://openreview.net/pdf?id=4UldFtZ_CVF)
-  
-  Shuai Zhang, Meng Wang, Pin-Yu Chen, Sijia Liu, Songtao Lu, Miao Liu
 
 - Provably **Neural Active Learning** Succeeds via Prioritizing Perplexing Samples, *ICML 2024*, [link](https://arxiv.org/abs/2406.03944)
 
-  Dake Bu, Wei Huang, Taiji Suzuki, Ji Cheng, Qingfu Zhang, Zhiqiang Xu, Hau-San Wong
-
 - Provable Benefits of Local Steps in Heterogeneous Federated Learning for Neural Networks: A Feature Learning Perspective, *ICML 2024*, [link](https://proceedings.mlr.press/v235/bao24a.html)
-
-  Yajie Bao, Michael Crawshaw, Mingrui Liu
 
 ## Regression
 
