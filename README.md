@@ -95,43 +95,25 @@ We warmly invite anyone interested to join us. To participate:
 
 - Feature Learning in Infinite-Width Neural Networks, *ICML 2021*. [(link)](https://arxiv.org/abs/2011.14522)
 
-  Greg Yang, Edward J. Hu
-
 - High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2205.01445)
 
-  Jimmy Ba, Murat A. Erdogdu, Taiji Suzuki, Zhichao Wang, Denny Wu, Greg Yang
-
 - Gradient-Based Feature Learning under Structured Data, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2309.03843)
-
-  Alireza Mousavi-Hosseini, Denny Wu, Taiji Suzuki, Murat A Erdogdu
   
 - Neural Networks can Learn Representations with Gradient Descent, *COLT 2022*. [(link)](https://arxiv.org/abs/2206.15144)  
-
-  Alex Damian, Jason D. Lee, Mahdi Soltanolkotabi
   
 - Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks. [(link)](https://arxiv.org/abs/2305.06986)
-
-  Eshaan Nichani, Alex Damian, Jason D. Lee
   
 - The merged-staircase property: a necessary and nearly sufficient condition for SGD learning of sparse functions on two-layer neural networks, *COLT 2022*. [(link)](https://arxiv.org/abs/2202.08658)
-
-  Emmanuel Abbe, Enric Boix-Adsera, Theodor Misiakiewicz
   
 - Neural Networks Efficiently Learn Low-Dimensional Representations with SGD, *ICLR 2023*. [(link)](https://arxiv.org/abs/2209.14863)  
-
-  Alireza Mousavi-Hosseini, Sejun Park, Manuela Girotti, Ioannis Mitliagkas, Murat A. Erdogdu
   
 - Learning Two-Layer Neural Networks, One (Giant) Step at a Time [(link)](https://arxiv.org/abs/2305.18270)  
 
-  Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic Stephan
-
 - Gradient-Based Feature Learning under Structured Data, *NeurIPS 2023*. [(link)](https://arxiv.org/pdf/2309.03843.pdf)
-
-  Alireza Mousavi-Hosseini, Denny Wu, Taiji Suzuki, Murat A. Erdogdu
 
 - Optimal criterion for feature learning of two-layer linear neural network in high dimensional interpolation regime, *ICLR 2024*, [(link)](https://openreview.net/forum?id=Jc0FssXh2R)
 
-  Keita Suzuki, Taiji Suzuki
+- Three Mechanisms of Feature Learning in the Exact Solution of a Latent Variable Model, [(link)](https://arxiv.org/abs/2401.07085)
 
 
 ## Transformers
