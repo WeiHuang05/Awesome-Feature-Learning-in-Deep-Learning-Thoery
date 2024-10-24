@@ -115,6 +115,8 @@ We warmly invite anyone interested to join us. To participate:
 
 - Three Mechanisms of Feature Learning in the Exact Solution of a Latent Variable Model, [(link)](https://arxiv.org/abs/2401.07085)
 
+- Mixed Dynamics In Linear Networks: Unifying the Lazy and Active Regimes, *NeurIPS 2024* [(link)](https://arxiv.org/abs/2405.17580)
+
 
 ## Transformers
 
