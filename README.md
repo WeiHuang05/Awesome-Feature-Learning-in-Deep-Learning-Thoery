@@ -31,7 +31,7 @@ We warmly invite anyone interested to join us. To participate:
 
 - Feature purification: How **adversarial training** performs robust deep learning, *FOCS 2021*. [(link)](https://arxiv.org/abs/2005.10190)
 
-- Implicit bias of gradient descent for wide two-layer neural networks trained with the logistic loss, *COLT 2020* (https://arxiv.org/abs/2002.04486)
+- Implicit bias of gradient descent for wide two-layer neural networks trained with the logistic loss, *COLT 2020* [(link)](https://arxiv.org/abs/2002.04486)
 
 - Toward understanding the feature learning process of self-supervised **contrastive learning**, *ICML 2021*. [(link)](https://arxiv.org/abs/2105.15134)
   
