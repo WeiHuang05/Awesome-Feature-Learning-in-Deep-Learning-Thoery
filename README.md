@@ -107,7 +107,9 @@ We warmly invite anyone interested to join us. To participate:
   
 - The merged-staircase property: a necessary and nearly sufficient condition for SGD learning of sparse functions on two-layer neural networks, *COLT 2022*. [(link)](https://arxiv.org/abs/2202.08658)
   
-- Neural Networks Efficiently Learn Low-Dimensional Representations with SGD, *ICLR 2023*. [(link)](https://arxiv.org/abs/2209.14863)  
+- Neural Networks Efficiently Learn Low-Dimensional Representations with SGD, *ICLR 2023*. [(link)](https://arxiv.org/abs/2209.14863)
+
+- SGD learning on neural networks: leap complexity and saddle-to-saddle dynamics, *COLT 2023* [(link)](https://proceedings.mlr.press/v195/abbe23a/abbe23a.pdf)
   
 - Learning Two-Layer Neural Networks, One (Giant) Step at a Time [(link)](https://arxiv.org/abs/2305.18270)  
 
