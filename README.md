@@ -31,6 +31,8 @@ We warmly invite anyone interested to join us. To participate:
 
 - Feature purification: How **adversarial training** performs robust deep learning, *FOCS 2021*. [(link)](https://arxiv.org/abs/2005.10190)
 
+- Implicit bias of gradient descent for wide two-layer neural networks trained with the logistic loss, *COLT 2020* (https://arxiv.org/abs/2002.04486)
+
 - Toward understanding the feature learning process of self-supervised **contrastive learning**, *ICML 2021*. [(link)](https://arxiv.org/abs/2105.15134)
   
 - Towards Understanding **Mixture of Experts** in Deep Learning, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2208.02813)
@@ -89,7 +91,7 @@ We warmly invite anyone interested to join us. To participate:
 
 - Provably **Neural Active Learning** Succeeds via Prioritizing Perplexing Samples, *ICML 2024*, [link](https://arxiv.org/abs/2406.03944)
 
-- Provable Benefits of Local Steps in Heterogeneous Federated Learning for Neural Networks: A Feature Learning Perspective, *ICML 2024*, [link](https://proceedings.mlr.press/v235/bao24a.html)
+- Provable Benefits of Local Steps in Heterogeneous **Federated Learning** for Neural Networks: A Feature Learning Perspective, *ICML 2024*, [link](https://proceedings.mlr.press/v235/bao24a.html)
 
 ## Regression
 
