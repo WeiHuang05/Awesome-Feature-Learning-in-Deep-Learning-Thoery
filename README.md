@@ -97,6 +97,8 @@ We warmly invite anyone interested to join us. To participate:
 
 - High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2205.01445)
 
+- Self-consistent dynamical field theory of kernel evolution in wide neural networks, *NeurIPS 2022*. [(link)](https://arxiv.org/abs/2205.09653)
+
 - Gradient-Based Feature Learning under Structured Data, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2309.03843)
 
 - The merged-staircase property: a necessary and nearly sufficient condition for SGD learning of sparse functions on two-layer neural networks, *COLT 2022* [(link)](https://par.nsf.gov/servlets/purl/10344261)
