@@ -103,8 +103,6 @@ We warmly invite anyone interested to join us. To participate:
 
 - Feature Learning in L2-regularized DNNs: Attraction/Repulsion and Sparsity, *NeurIPS 2022* [(link)](https://arxiv.org/pdf/2205.15809)
 
-- Gradient-Based Feature Learning under Structured Data, *NeurIPS 2023*. [(link)](https://arxiv.org/abs/2309.03843)
-
 - The merged-staircase property: a necessary and nearly sufficient condition for SGD learning of sparse functions on two-layer neural networks, *COLT 2022* [(link)](https://par.nsf.gov/servlets/purl/10344261)
   
 - Neural Networks can Learn Representations with Gradient Descent, *COLT 2022*. [(link)](https://arxiv.org/abs/2206.15144)  
