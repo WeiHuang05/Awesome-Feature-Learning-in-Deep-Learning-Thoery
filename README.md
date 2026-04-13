@@ -93,6 +93,8 @@ We warmly invite anyone interested to join us. To participate:
 
 - Provable Benefits of Local Steps in Heterogeneous **Federated Learning** for Neural Networks: A Feature Learning Perspective, *ICML 2024*, [link](https://proceedings.mlr.press/v235/bao24a.html)
 
+- Understand the Effectiveness of **Shortcuts** through the Lens of DCA, *arXiv 2024*. [(link)](https://arxiv.org/abs/2412.09853)
+
 ## Regression
 
 - Feature Learning in Infinite-Width Neural Networks, *ICML 2021*. [(link)](https://arxiv.org/abs/2011.14522)
